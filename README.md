@@ -3,7 +3,7 @@
  - It uses concepts of Oops, Class & functions.
  - Data entered in program is saved in Bank.data file.
 
-# The output of given program are:
+# The outputs of program are:
 1. The Starting Window
 ![Starting Window](https://user-images.githubusercontent.com/78868587/132424039-3ae72201-e270-4e6c-956f-4e55e2501dbd.png)
 

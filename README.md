@@ -1,5 +1,5 @@
 # Bank-Management-System
- - This Bank Management System is a program written in C++.
+ - This Bank Management System is written in C++.
  - It uses concepts of Oops, Class & functions.
  - Data entered in program is saved in Bank.data file.
 
